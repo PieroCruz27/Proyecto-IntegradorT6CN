@@ -1,5 +1,7 @@
 package net.prestamo.entidad;
 
+
+//
 public class Prestamista {
 	private int idPrestamista;
 	private String nombre;
